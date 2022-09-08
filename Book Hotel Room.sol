@@ -1,5 +1,4 @@
 //SPDX-License-Identifier: UNLICENSED
-//No clue why it wants this^^, but it does..
 
 //imports the chosen solidity cersion
 pragma solidity 0.8.14;
